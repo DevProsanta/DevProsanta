@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prosanta Mondal</h1>
-<h3 align="center">Frontend developer from India</h3>
+<h3 align="center">Software Engineer from India</h3>
 <div style="display: flex; justify-content: space-between;">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=devprosanta&label=Profile%20views&color=0e75b6&style=flat" alt="devprosanta" /> </p>
 
